@@ -2,4 +2,9 @@
 	<persistence-unit name="persistence" transaction-type="RESOURCE_LOCAL">
 		<class>com.cts.data.AuthModel</class>
 	</persistence-unit>
+	
+	<!-- 
+	Comment
+	
+	-->
 </persistence>
